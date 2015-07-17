@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>ProjectOutline</title>
+    <expansionState>0</expansionState>
+  </head>
+  <body>
+    <outline text="Project Name" _note="This is a sample project" EH="1d 4h">
+      <outline text="Task 1" _note="First task desription" EH="4h"/>
+      <outline text="Task 2" _note="Another task in project" EH="1d"/>
+    </outline>
+  </body>
+</opml>

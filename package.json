@@ -1,0 +1,16 @@
+{
+  "name": "OpmlParser",
+  "version": "1.0.0",
+  "description": "OmniOutliner OPML parser",
+  "main": "oop.js",
+  "dependencies": {
+    "juration": "0.0.1",
+    "node-trello": "^1.0.1",
+    "xml2js": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Velo",
+  "license": "ISC"
+}

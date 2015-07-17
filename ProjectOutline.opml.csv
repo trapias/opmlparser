@@ -1,0 +1,7 @@
+N;Level;Task;Duration;Estimate
+0;0;Project Name;1d 4h;12
+;;This is a sample project
+1;1;1) Task 1;4h;4
+;;First task desription
+2;1;2) Task 2;1d;8
+;;Another task in project
